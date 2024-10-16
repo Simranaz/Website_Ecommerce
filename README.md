@@ -12,7 +12,6 @@ This project is a simple eCommerce website built with HTML, CSS, and JavaScript.
 ## Technologies Used
 - HTML5
 - CSS3
-- 
 - Font Awesome for icons
 
 ## Installation
